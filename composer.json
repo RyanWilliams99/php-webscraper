@@ -1,0 +1,21 @@
+{
+    "name": "ryan/cli-app",
+    "description": "test php console app",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Ryan\\CliApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ryan Williams",
+            "email": "ryanwilliamsdesktop@outlook.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.3",
+        "fabpot/goutte": "^4.0"
+    }
+}
