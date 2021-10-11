@@ -1,3 +1,6 @@
 # php-webscraper
 
-attempt at a web scraper in php
+To run install composer then run 
+```
+composer install --no-dev
+```
