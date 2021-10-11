@@ -1,13 +1,13 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => '86decbce0021bf1ee46acb6190cb8088c76600ba',
         'name' => 'ryan/cli-app',
-        'dev' => true,
+        'dev' => false,
     ),
     'versions' => array(
         'fabpot/goutte' => array(
@@ -131,12 +131,12 @@
             'dev_requirement' => false,
         ),
         'ryan/cli-app' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '86decbce0021bf1ee46acb6190cb8088c76600ba',
             'dev_requirement' => false,
         ),
         'symfony/browser-kit' => array(
