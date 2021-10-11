@@ -1,6 +1,6 @@
 # php-webscraper
 
-To run install composer then run 
-```
-composer install --no-dev
-```
+### Setup
+
+1. Install composer
+1. Run ``` composer install --no-dev ```
